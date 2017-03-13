@@ -1,9 +1,9 @@
 # tictoc-python
 Tictoc which mimics `tidtoc` module in MATLAB measures elapsed time.
 
-Example of usage:
+## Example of usage:
 
-```python3
+```python
 import tictoc
 
 t = tictoc.tictoc()
